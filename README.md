@@ -2353,6 +2353,7 @@ comment below with the correct URL if you find any that are broken.
 2342. [Plusworth Solution Pvt Ltd (Healthfin)](https://tracxn.com/d/companies/healthfin/__VkRhwePl8aAY0GVuBpo-YAdJl62DkI_SlCOlKuLGD4c)
 2343. [Quagga Tech Pvt Ltd (Aadhaar API)](https://www.zoop.one/)
 2344. [Tinytappps software private limited](https://wellfound.com/company/tinytapps-software-private-limited/jobs)
+2345. [Perfios](https://perfios.ai/careers/)
 
 ### Purpose
 This repository aims to simplify the process of discovering companies in the software engineering sector. Whether you are seeking internship opportunities, full-time positions, or partnerships, this repository provides a structured and easily navigable list to support your endeavors.
